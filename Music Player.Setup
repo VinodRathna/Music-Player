@@ -33,7 +33,7 @@ setup(
     version="2.6",
     description="Music Player developed by Konda Sai Sri Vinod Rathna",
     author="Konda Sai Sri Vinod Rathna",
-    name="Smart Notepad",
+    name="Music Player",
     options={'build_exe': {'include_files': includefiles}, "bdist_msi": bdist_msi_options, },
     executables=[
         Executable(
