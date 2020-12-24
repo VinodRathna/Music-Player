@@ -1,7 +1,7 @@
 from cx_Freeze import *
 from cx_Freeze import sys
 
-includefiles = ["7.ico]
+includefiles = ["7.ico"]
 excludes = []
 packages = []
 base = None
