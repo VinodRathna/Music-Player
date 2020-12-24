@@ -11,7 +11,7 @@ if sys.platform == "win32":
 shortcut_table = [
     ("DesktopShortcut",  # Shortcut
      "DesktopFolder",  # Directory_
-     "Smart Note Pad",  # Name
+     "Music Player",  # Name
      "TARGETDIR",  # Component_
      "[TARGETDIR]\Music Player.exe",  # Target
      None,  # Arguments
