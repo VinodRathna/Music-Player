@@ -118,7 +118,6 @@ from tkinter.ttk import Progressbar
 root = Tk()
 root.geometry('1100x500')
 root.title('VR Music Player')
-root.iconbitmap('7.ico')
 root.resizable(False,False)
 root.configure(bg='turquoise1')
 ###########################################################Global Variables
